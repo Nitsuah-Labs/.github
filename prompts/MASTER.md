@@ -1,0 +1,1 @@
+Master index of prompts can be found in: `nitsuah\stash\agent\prompts`
