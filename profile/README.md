@@ -100,15 +100,11 @@ WebGL/Three.js    ████████████░░░░░░░░ 6
 
 ## ◈ HISTORICAL RECORD
 
-| PERIOD | ROLE | HIGHLIGHTS |
-|:-------|:-----|:-----------|
-| Nov 2023 → Mar 2026 | **Netflix** · Senior Systems Engineer | Atlassian SME · MCP 30K→60K+ req/wk · DC→Cloud |
-| Apr 2022 → Nov 2023 | **Coinbase** · Systems Engineer | MNPI compliance automation · Release tracking |
-| Apr 2018 → Apr 2022 | **Blackboard** · Senior Systems Administrator | DC→Cloud w/ Platinum partner · 200+ legacy decomms · SAFe |
-| Oct 2016 → Apr 2018 | **OmniSystems** (contractor to MAXIMUS) · Application Administrator | Sys admin · 4,000 users · 24/7/365 · DoE Debt Management |
-| Aug 2014 → Sep 2016 | **OmniSystems** (contractor to MAXIMUS) · Production Control SME | ETL · reports db · help desk |
-| Apr 2010 → Apr 2014 | **OmniSystems** · Junior Systems Engineer | Bootstrapped USVI govt IT · EDA · Courts · Police · Fire |
-| 2008 → 2009 | **REAC-TAC / HUD** · Call Center Rep (T1+) | Tier 1+ support · staff training · Tier 2 escalations |
+| ROLE | HIGHLIGHTS |
+|:-----|:-----------|
+| **Netflix** · Senior Systems Engineer | Atlassian SME · MCP 30K→60K+ req/wk · DC→Cloud |
+| **Coinbase** · Systems Engineer | MNPI compliance automation · Release tracking |
+| **Blackboard** · Senior Systems Administrator | DC→Cloud w/ Platinum partner · 200+ legacy decomms · SAFe |
 
 ---
 
